@@ -1,0 +1,42 @@
+[
+  {
+    "package": "weathercan",
+    "url": "https://github.com/ropensci/weathercan"
+  },
+  {
+    "package": "LITAP",
+    "url": "https://github.com/FRDC-SHL/LITAP"
+  },
+  {
+    "package": "cavityuse",
+    "url": "https://github.com/steffilazerte/cavityuse"
+  },
+  {
+    "package": "feedr",
+    "url": "https://github.com/animalnexus/feedr"
+  },
+  {
+    "package": "motus",
+    "url": "https://github.com/MotusWTS/motus"
+  },
+  {
+    "package": "naturecounts",
+    "url": "https://github.com/BirdStudiesCanada/naturecounts"
+  },
+  {
+    "package": "rems2aquachem",
+    "url": "https://github.com/bcgov/rems2aquachem"
+  },
+  {
+    "package": "aquifer-factsheets",
+    "url": "https://github.com/bcgov/aquifer-factsheets"
+  },
+  {
+    "package": "bcgwlreports",
+    "url": "https://github.com/bcgov/bcgwlreports"
+  },
+  {
+    "package": "moosecounter",
+    "url": "https://github.com/psolymos/moosecounter"
+  }
+]
