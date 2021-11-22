@@ -9,7 +9,7 @@ df <- tribble(
   "motus",                   "https://github.com/MotusWTS/motus",
   "naturecounts",            "https://github.com/BirdStudiesCanada/naturecounts",
   "rems2aquachem",           "https://github.com/bcgov/rems2aquachem",
-  "aquifer-factsheets",      "https://github.com/bcgov/aquifer-factsheets",
+  #"aquifer-factsheets",      "https://github.com/bcgov/aquifer-factsheets",
   "bcgwlreports",            "https://github.com/bcgov/bcgwlreports",
   "moosecounter",            "https://github.com/psolymos/moosecounter")
 

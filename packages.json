@@ -28,10 +28,6 @@
     "url": "https://github.com/bcgov/rems2aquachem"
   },
   {
-    "package": "aquifer-factsheets",
-    "url": "https://github.com/bcgov/aquifer-factsheets"
-  },
-  {
     "package": "bcgwlreports",
     "url": "https://github.com/bcgov/bcgwlreports"
   },
