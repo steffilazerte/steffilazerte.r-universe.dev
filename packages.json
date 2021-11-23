@@ -16,6 +16,10 @@
     "url": "https://github.com/animalnexus/feedr"
   },
   {
+    "package": "feedrUI",
+    "url": "https://github.com/animalnexus/feedrUI"
+  },
+  {
     "package": "motus",
     "url": "https://github.com/MotusWTS/motus"
   },

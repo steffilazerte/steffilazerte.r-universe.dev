@@ -6,6 +6,7 @@ df <- tribble(
   "LITAP",                   "https://github.com/FRDC-SHL/LITAP",
   "cavityuse",               "https://github.com/steffilazerte/cavityuse",
   "feedr",                   "https://github.com/animalnexus/feedr",
+  "feedrUI",                 "https://github.com/animalnexus/feedrUI",
   "motus",                   "https://github.com/MotusWTS/motus",
   "naturecounts",            "https://github.com/BirdStudiesCanada/naturecounts",
   "rems2aquachem",           "https://github.com/bcgov/rems2aquachem",
