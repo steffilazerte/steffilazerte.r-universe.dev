@@ -36,6 +36,10 @@
     "url": "https://github.com/bcgov/bcgwlreports"
   },
   {
+    "package": "bcaquiferdata",
+    "url": "https://github.com/steffilazerte/bcaquiferdata"
+  },
+  {
     "package": "moosecounter",
     "url": "https://github.com/psolymos/moosecounter"
   }

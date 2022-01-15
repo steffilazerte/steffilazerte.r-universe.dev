@@ -12,6 +12,7 @@ df <- tribble(
   "rems2aquachem",           "https://github.com/bcgov/rems2aquachem",
   #"aquifer-factsheets",      "https://github.com/bcgov/aquifer-factsheets",
   "bcgwlreports",            "https://github.com/bcgov/bcgwlreports",
+  "bcaquiferdata",           "https://github.com/steffilazerte/bcaquiferdata",
   "moosecounter",            "https://github.com/psolymos/moosecounter")
 
 jsonlite::write_json(df, 'packages.json', pretty = TRUE)
