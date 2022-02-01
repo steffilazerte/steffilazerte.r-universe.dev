@@ -42,5 +42,9 @@
   {
     "package": "moosecounter",
     "url": "https://github.com/psolymos/moosecounter"
+  },
+  {
+    "package": "fasstrshiny",
+    "url": "https://github.com/bcgov/fasstrshiny"
   }
 ]
