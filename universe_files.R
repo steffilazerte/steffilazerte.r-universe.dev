@@ -9,10 +9,10 @@ df <- tribble(
   "feedrUI",                 "https://github.com/animalnexus/feedrUI",
   "motus",                   "https://github.com/MotusWTS/motus",
   "naturecounts",            "https://github.com/BirdStudiesCanada/naturecounts",
-  "rems2aquachem",           "https://github.com/bcgov/rems2aquachem",
+  "bcgwcats",                "https://github.com/bcgov/bcgwcats",
+  "bcaquiferdata",           "https://github.com/bcgov/bcaquiferdata",
 # "aquifer-factsheets",      "https://github.com/bcgov/aquifer-factsheets",
   "bcgwlreports",            "https://github.com/bcgov/bcgwlreports",
-  "bcaquiferdata",           "https://github.com/steffilazerte/bcaquiferdata",
   "moosecounter",            "https://github.com/psolymos/moosecounter")
   #"fasstrshiny",             "https://github.com/bcgov/fasstrshiny")
 

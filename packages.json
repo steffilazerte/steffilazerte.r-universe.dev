@@ -28,16 +28,16 @@
     "url": "https://github.com/BirdStudiesCanada/naturecounts"
   },
   {
-    "package": "rems2aquachem",
-    "url": "https://github.com/bcgov/rems2aquachem"
+    "package": "bcgwcats",
+    "url": "https://github.com/bcgov/bcgwcats"
+  },
+  {
+    "package": "bcaquiferdata",
+    "url": "https://github.com/bcgov/bcaquiferdata"
   },
   {
     "package": "bcgwlreports",
     "url": "https://github.com/bcgov/bcgwlreports"
-  },
-  {
-    "package": "bcaquiferdata",
-    "url": "https://github.com/steffilazerte/bcaquiferdata"
   },
   {
     "package": "moosecounter",
